@@ -9,6 +9,6 @@ HTML5, Css, Scss, Sass, Bootstrap4, Js, JQuery, VueJs
 MySQL, PHP, Laravel7
 
 
-## Check out my main project so far, made in a few weeks with a great team!
+## Check out my main project so far, developed with a great team !
 
-[I'm an inline-style link](https://github.com/Deliveboo-7/Deliveboost)
+[Deliveboost: a laravel app](https://github.com/Deliveboo-7/Deliveboost)
