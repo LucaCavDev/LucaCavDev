@@ -1,14 +1,22 @@
-# Hi! I'm Luca, a Junior Full Stack Web Developer.
+# Ciao! Sono Luca Cavicchioli 👋
 
-## Main Skills
+Sviluppatore Full Stack con **4+ anni di esperienza** nella creazione di applicazioni web robuste e scalabili. La mia expertise spazia dal **backend in PHP (Laravel)** al **frontend moderno con JavaScript/TypeScript (React, Next.js, Vue/Nuxt.js)**.
 
-### Front-end:
-HTML5, Css, Scss, Sass, Bootstrap4, Js, JQuery, VueJs
+Sono un appassionato di tecnologia con un background non convenzionale, unito a solide basi di gestione aziendale, che mi permette di unire le competenze tecniche con una visione strategica dei progetti.
 
-### Back-end:
-MySQL, PHP, Laravel7
+---
 
+## Le mie Competenze Principali:
 
-## Check out my main project so far, developed with a great team !
+* **Frontend**: Next.js, React, Nuxt.js, Vue, TypeScript, JavaScript (ES6+), Tailwind CSS
+* **Backend**: PHP, Laravel, SQL, Node.js (Next.js API Routes, Nuxt.js Server)
+* **Database**: MySQL, Firebase, Redis
+* **Architetture & Tool**: Headless CMS (Contentful, Storyblok), E-commerce (Commercelayer), Ricerca (Algolia), CI/CD (GitHub Actions), Docker, Git.
 
-[Deliveboost: a laravel app](https://github.com/Deliveboo-7/Deliveboost)
+---
+
+## Cerchi un Collaboratore?
+
+Sono sempre aperto a nuove sfide e opportunità. Non esitare a contattarmi se pensi che le mie competenze possano essere utili al tuo team o al tuo progetto!
+
+[LinkedIn](https://linkedin.com/in/luca-cavicchioli/)
